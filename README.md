@@ -49,6 +49,6 @@ The task is episodic, and in order to solve the environment,  your agent must ge
 
 4. After activating the environment, follow the instructions in `Navigation.ipynb` to get started with training your own agent!.
 
-Execute the all the cells and now you will be able to see the agent is trained. Model architectural changes can be done in model.py file and agent hyperparameter tuning can be done in agent.py file.  
+Execute the all the cells and now you will be able to see the agent is trained. Model architectural changes can be done in model.py file and agent hyperparameter tuning can be done in ddpg_agent.py file.  
 
 
